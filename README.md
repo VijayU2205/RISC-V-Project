@@ -6,9 +6,9 @@
 
 ## Project Structure  
 riscv-project/
-├── hardware/ # RTL code (Verilog/Chisel)
-├── software/ # Firmware & tests
-└── docs/ # Documentation
+hardware/ # RTL code (Verilog/Chisel)
+software/ # Firmware & tests
+docs/ # Documentation
 ## How to Contribute  
 1. Fork this repo  
 2. Add your code  
